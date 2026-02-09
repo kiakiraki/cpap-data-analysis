@@ -1,0 +1,20 @@
+# CPAP data (personal health data)
+DATAFILE/
+CONFIG/
+log.txt
+resend.hex
+
+# Analysis notes (contains device identifiers)
+ANALYSIS.md
+
+# Generated outputs
+cpap_history.png
+cpap_all_data.csv
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
